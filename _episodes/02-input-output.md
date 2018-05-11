@@ -60,7 +60,7 @@ Most HPC filesystems assume no more than 1,000 files per directory.
 
 > ## Measuring I/O rates
 >
-> - Look into [IOR](https://github.com/LLNL/ior or https://sourceforge.net/projects/ior-sio/)
+> - Look into IOR on [GitHub](https://github.com/LLNL/ior) or [SourceForge](https://sourceforge.net/projects/ior-sio/)
 > - Read this 2007 paper, [Using IOR to Analyze the I/O performance for HPC Platforms](https://cug.org/5-publications/proceedings_attendee_lists/2007CD/S07_Proceedings/pages/Authors/Shan/Shan_paper.pdf)
 > - Neither of these are things to do right this minute!
 {: .challenge}
